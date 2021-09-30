@@ -1,0 +1,150 @@
+# Compiled source #
+############
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.bat
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+############
+*.log
+
+# OS generated files #
+############
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Java and Gradle #
+############
+build/
+.gradle/
+out/
+out
+.gradle
+gradle
+gradlew.bat
+gradlew
+settings.gradle
+
+# IntelliJ #
+############
+.idea
+.idea/
+herosquad/build.gradle
+herosquad/src/main/java/App.java
+
+../../.IdeaIC2019.2/
+        ../../.android/
+        ../../.angular-config.json
+        ../../.atom/
+        ../../.bash_history
+        ../../.bash_logout
+        ../../.bash_profile
+        ../../.bashrc
+        ../../.cache/
+        ../../.config/
+        ../../.gitconfig
+        ../../.gitignore
+        ../../.gnupg/
+        ../../.gradle/
+        ../../.java/
+        ../../.jenkins/
+        ../../.lesshst
+        ../../.local/
+        ../../.m2/
+        ../../.mozilla/
+        ../../.netrc
+        ../../.ngrok/
+        ../../.npm/
+        ../../.nvm/
+        ../../.phpls/
+        ../../.pki/
+        ../../.profile
+        ../../.psql_history
+        ../../.sdkman/
+        ../../.sudo_as_admin_successful
+        ../../.thunderbird/
+        ../../.vscode/
+        ../../.wget-hsts
+        ../../.zoom/
+        ../../.zshrc
+        ../../Desktop/
+        ../../Documents/
+        ../../Downloads/
+        ../Java_Ping_Pong_StarterCode/
+        ../Spark-Java_API/
+        ../Wildlife-Tracker/
+        ../car-dealership/
+        ../ceaser-cipher/
+        ../cube/
+        ../dates/
+        ../favorites/
+        ../first-app/
+        ../friend-letter/
+        ../jadle/
+        ../java-todo/
+        ../kitten/
+        ../lexi/
+        ../library-app/
+        ../match/
+        ../my-blog/
+        ./
+        ../newsroom/build.gradle
+        ../newsroom/src/
+        ../numbers/
+        ../rectangle/
+        ../strings/
+        ../student-tracker/
+        ../vehicle/
+        ../virtual-pets/
+        ../virtual_pets/
+        ../vp/
+        ../week2core/
+        ../wildlife-tracker/
+        ../wtracker/
+        ../../MC/
+        ../../Pictures/
+        ../../Videos/
+        ../../composer-setup.php
+        ../../download.png
+        ../../herosquad/
+        ../../images/
+        ../../jadle.db.mv.db
+        ../../jadle.db.trace.db
+        ../../java-todo/
+        ../../java_error_in_IDEA_129824.log
+        ../../java_error_in_IDEA_26822.log
+        ../../java_error_in_IDEA_4779.log
+        ../../java_error_in_IDEA_5459.log
+        ../../java_error_in_IDEA_8645.log
+        ../../metube/
+        ../../moringa-school-projects/
+        ../../package-lock.json
+        ../../package.json
+        ../../snap/
+        ../../stale_outputs_checked
+        ../../templates/
+        ../../test.wav
+        ../../todolist.db.mv.db
+        ../../trial/
+        ../../trials/
+ IdeaProjects/newsroom/newsroom.iml

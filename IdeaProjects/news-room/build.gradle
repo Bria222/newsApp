@@ -1,0 +1,26 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'junit:junit:4.13.1'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
+    testImplementation group: 'junit', name: 'junit', version: '4.12'
+    implementation "com.sparkjava:spark-core:2.6.0"
+    implementation 'org.slf4j:slf4j-simple:1.7.21'
+    implementation group: 'org.sql2o', name: 'sql2o', version: '1.5.4'
+    implementation group: 'com.h2database', name: 'h2', version: '1.4.191'
+    implementation 'com.google.code.gson:gson:2.5'
+}
+
+test {
+    useJUnitPlatform()
+}
